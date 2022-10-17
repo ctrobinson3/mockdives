@@ -1,7 +1,7 @@
 {
   "meetData": [
     {
-      "id": 0001,
+      "id": "0001",
       "name": "CT Robinson",
       "school": "Silver Creek",
       "dives": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "id": 0002,
+      "id": "0002",
       "name": "Kyle Stewart",
       "school": "Silver Creek",
       "dives": [
